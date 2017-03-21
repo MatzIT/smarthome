@@ -90,6 +90,6 @@ If you want to read an item call `sh.item.path()` or to set an item `sh.item.pat
 <pre>
 # logics/sunset.py
 if sh.global.sun():  # if sh.global.sun() == True:
-    sh.gloabl.sun(False)  # set it to False
+    sh.global.sun(False)  # set it to False
 </pre>
 
